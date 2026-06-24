@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Привет, я Милена!</h1>
+  <h3>🎓 Преподаватель практики ITMO University && 💻 Разработчик </h3>
+</div>
 
-<!--
-**E5capada/E5capada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🎓 Образование
+- **Бакалавр ITMO** — Информационные системы и технологии *(2023)*  
+- **Магистр ITMO** — Информационные системы и технологии *(2025)*  
+- **Дополнительное образование**:  
+  *Методы обучения и инструменты ИИ для школы нового поколения*  
+  `Повышение квалификации ИТМО, 2026`
+---
 
-Here are some ideas to get you started:
+## 💻 Технологический стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### Базы данных
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![YDB](https://img.shields.io/badge/YDB-2D72B4?style=for-the-badge&logo=ydb&logoColor=white)
+
+## 📫 Связаться со мной
+
+- [Telegram](https://t.me/mil_leon)
+- [Email](mkalekseeva@itmo.ru)
+

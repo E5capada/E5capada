@@ -35,3 +35,11 @@
 - [Telegram](https://t.me/mil_leon)
 - [Email](mkalekseeva@itmo.ru)
 
+<!-- Карточка с активностью -->
+![Ваш_ник GitHub stats](https://github-readme-stats.vercel.app/api?username=E5capada&show_icons=true&theme=radical)
+
+<!-- Карточка с языками программирования -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E5capada&layout=compact&theme=radical)
+
+
+

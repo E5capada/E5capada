@@ -8,6 +8,8 @@
 - **Магистр ITMO** — Информационные системы и технологии *(2025)*  
 - **Дополнительное образование**:  
   *Методы обучения и инструменты ИИ для школы нового поколения*  
+  `Повышение квалификации ИТМО, 2025`
+  *Активное обучение*  
   `Повышение квалификации ИТМО, 2026`
 ---
 
@@ -36,7 +38,7 @@
 - [Email](mkalekseeva@itmo.ru)
 
 <!-- Карточка с активностью -->
-![Ваш_ник GitHub stats](https://github-readme-stats.vercel.app/api?username=E5capada&show_icons=true&theme=radical)
+![E5capada GitHub stats](https://github-readme-stats.vercel.app/api?username=E5capada&show_icons=true&theme=radical)
 
 <!-- Карточка с языками программирования -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E5capada&layout=compact&theme=radical)

@@ -37,6 +37,7 @@
 - [Telegram](https://t.me/mil_leon)
 - [Email](mailto:mkalekseeva@itmo.ru)
 
+## 📊 Статистика
 <!-- Карточка с активностью -->
 <!--![E5capada GitHub stats](https://github-readme-stats.vercel.app/api?username=E5capada&show_icons=true&theme=radical)-->
 ![GitHub Streak](https://streak-stats.demolab.com?user=E5capada&theme=radical)

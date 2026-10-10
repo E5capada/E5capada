@@ -3,6 +3,8 @@
   <h3>🎓 Преподаватель практики ITMO University && 💻 Разработчик </h3>
 </div>
 
+> «Быть тем, кто ты есть, — мало; надо еще упорно трудиться, чтобы стать кем-нибудь еще»
+
 ## 🧑‍🎓 Образование
 - **Бакалавр ITMO** — Информационные системы и технологии *(2023)*  
 - **Магистр ITMO** — Информационные системы и технологии *(2025)*  
@@ -31,6 +33,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![YDB](https://img.shields.io/badge/YDB-2D72B4?style=for-the-badge&logo=ydb&logoColor=white)
+
+## 🎯 Мои хобби
+
+| Hobby | Description |
+| :--|:--|
+| 🇪🇸 Español | Могу сказать «Buenos días!» |
+| 📚 Пишу стихи | Но никому не показываю |
+| 🏃 Легкая атлетика | Профессионально убегаю от проблем на спринтерских дистанциях: 100m, 60 m и с барьерами |
+| 🎨 Живопись | Работаю ради арт-коворкинга |
 
 ## 📫 Связаться со мной
 
